@@ -1,7 +1,9 @@
 # Proper Programming Prerequisites
 
-Here, I've includd
+Here, I'v
 
 ## [Setup your Text Editor](text-editor/README.md)
 
-## Install your Language
+## Install Clojure (TODO)
+
+## Install Node (TODO)
