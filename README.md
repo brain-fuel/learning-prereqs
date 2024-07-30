@@ -4,6 +4,10 @@ Here, I've included all the things you need to do before you start programming. 
 
 ## [Setup your Text Editor](text-editor/README.md)
 
+### Enough Lua to Configure your Text Editor
+
+https://learnxinyminutes.com/docs/lua/
+
 ## Install Clojure (TODO)
 
 ## Install Node (TODO)
